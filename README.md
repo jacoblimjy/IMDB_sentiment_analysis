@@ -1,1 +1,1 @@
-# IMDB_sentiment_analysis
+# IT1244 IMDB Movie Sentiment Analysis

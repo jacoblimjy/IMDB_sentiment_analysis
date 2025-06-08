@@ -1,8 +1,8 @@
 # IMDB Movie Sentiment Analysis
 
-## 📄 Project Documents
-- [Final Report (Google Drive)](https://drive.google.com/file/d/1vbjaMyGt-8BUJHQhXrxPDrzuc7uVEPF6/view?usp=drive_link)
-- [Presentation Slides (Google Drive)](https://drive.google.com/file/d/1tscwWYULW_X2NIYrUm-0_N8CCDpUG2z_/view?usp=drive_link)
+## Project Documents
+- [Final Report](https://drive.google.com/file/d/1vbjaMyGt-8BUJHQhXrxPDrzuc7uVEPF6/view?usp=drive_link)
+- [Presentation Slides](https://drive.google.com/file/d/1tscwWYULW_X2NIYrUm-0_N8CCDpUG2z_/view?usp=drive_link)
 
 ## Project Overview
 This project implements various machine learning and deep learning approaches to analyze sentiment in IMDB movie reviews. The goal is to classify movie reviews as either positive or negative using different models and compare their performance.
